@@ -1,0 +1,10 @@
+{
+  "pools": [
+    {
+      "name": "SuperBlockchain Pool",
+      "url_dashboard": "https://superblockchain.con-ip.com/ztc",
+      "url_backend": "https://superblockchain.con-ip.com"
+      "port_backend": 14036
+    }
+  ]
+}
