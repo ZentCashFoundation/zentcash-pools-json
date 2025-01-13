@@ -1,0 +1,1 @@
+# zentcash-pools-json
