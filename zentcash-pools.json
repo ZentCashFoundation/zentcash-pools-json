@@ -2,9 +2,9 @@
   "pools": [
     {
       "name": "SuperBlockchain Pool",
-      "url_dashboard": "https://superblockchain.con-ip.com/ztc",
-      "url_backend": "https://superblockchain.con-ip.com"
-      "port_backend": 14036
+      "url_dashboard": "https://superblockchain.zapto.org/ztc",
+      "url_backend": "https://superblockchain.zapto.org/api/ztc"
+      "port_backend": 443
     }
   ]
 }
